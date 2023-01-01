@@ -10,3 +10,6 @@
 
 > 以后改用md直接上传笔记，这样就可以在git上直接阅读了。
 
+
+
+* [SpEL表达式注入](https://github.com/Ghost2097221/security_study_notes/blob/master/SpEL%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%B3%A8%E5%85%A5.md)
