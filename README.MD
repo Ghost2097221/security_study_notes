@@ -14,3 +14,5 @@
 
 * [SpEL表达式注入](https://github.com/Ghost2097221/security_study_notes/blob/master/SpEL%E8%A1%A8%E8%BE%BE%E5%BC%8F%E6%B3%A8%E5%85%A5.md)
 * [java反序列化过程学习](https://github.com/Ghost2097221/security_study_notes/blob/master/S-java反序列化过程学习.md)
+
+* [S-Thymeleaf-SSTI漏洞](https://github.com/Ghost2097221/security_study_notes/blob/master/S-Thymeleaf-SSTI%E6%BC%8F%E6%B4%9E.md)
